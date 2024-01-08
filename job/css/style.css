@@ -325,6 +325,10 @@ padding: 0;
     font-size: 62.5%;
   }
 
+  .navbar{
+  padding: 0.7rem 3%;
+  }
+
   .navbar-extra {
     display: inline-block;
   }
